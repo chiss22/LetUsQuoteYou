@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Varying Vagrant Vagrants
 
 Varying Vagrant Vagrants is an open source [Vagrant](https://www.vagrantup.com) configuration focused on [WordPress](https://wordpress.org) development. VVV is [MIT Licensed](https://github.com/varying-vagrant-vagrants/vvv/blob/master/LICENSE).
@@ -219,3 +220,6 @@ VVV has come a long way since it was first [launched as Varying Vagrant Vagrants
 In April of 2013, we made a [call to the WordPress community](https://jeremyfelt.com/code/2013/04/08/hi-wordpress-meet-vagrant/) to try to encourage the addition of Vagrant to everyday life. These efforts continued with talks at [WordCamp Chicago](https://wordpress.tv/2013/12/31/jeremy-felt-hi-wordpress-meet-vagrant-2/), [WordCamp Vancouver](https://wordpress.tv/2013/10/19/jeremy-felt-hi-wordpress-meet-vagrant/), and WordCamp Denver.
 
 In January of 2014, [10up](http://10up.com) made the decision to [spin VVV off](http://10up.com/blog/varying-vagrant-vagrants-future/) into its own organization to better align with the community that has grown around the project over time. This transition opens doors for what [Varying Vagrant Vagrants, the organization](https://jeremyfelt.com/code/2014/01/27/varying-vagrant-vagrants-organization/) can accomplish as an ongoing project.
+=======
+# letusquoteyou
+>>>>>>> a43f9d5e3a6e490b7fdbf96c4a697ef2d9046f63
